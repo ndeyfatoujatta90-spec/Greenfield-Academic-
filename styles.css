@@ -50,7 +50,7 @@ nav a:hover {
 .hero {
     color: white;
     text-align: center;
-    background-image: url(./images/students.jpg) ;
+    background-image: url("/images/students.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 400px;
